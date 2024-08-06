@@ -1,0 +1,25 @@
+#Animation1{
+    Animation:Animation1;animation-duration: 5s;animation-iteration-count: infinite;
+
+}
+
+.white,.White{
+    color:white;font-style:Bold;font-family:"Ink free";
+    Font-size:30px;border-color: transparent; border-bottom: black;
+
+}
+body{
+    background-color:rgb(48, 39, 39);
+    margin:0;
+    padding:0;
+
+}
+.Green,.green{
+
+    color:green;
+    background-color:green;
+    height:5px;
+    border-color:green;
+    margin:0;
+    padding:0;
+}
