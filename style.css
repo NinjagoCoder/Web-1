@@ -37,8 +37,11 @@ button#Click{
 article,label{
     text-align:center;    
 }
-#Project1,#project1{
-    height:250px;
+#Project,.Project{
     width:250px;
-    position:relative
+height:250px;
+border-radius:25%;
+border-color: rgb(48, 39, 39);
+position: relative;
+
 }
