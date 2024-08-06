@@ -4,8 +4,9 @@
 }
 
 .white,.White{
-    color:white;font-style:Bold;font-family:"Ink free";
+    color:rgb(192, 182, 182);font-style:Bold;font-family:"Ink free";
     Font-size:30px;border-color: transparent; border-bottom: black;
+    text-align:center;
 
 }
 body{
@@ -16,10 +17,10 @@ body{
 }
 .Green,.green{
 
-    color:green;
-    background-color:green;
+    color:rgb(7, 194, 7);
+    background-color:rgb(7, 194, 7);
     height:5px;
-    border-color:green;
+    border-color:rgb(7, 194, 7);
     margin:0;
     padding:0;
 }
