@@ -24,7 +24,12 @@ body{
     margin:0;
     padding:0;
 }
-h1#Click:hover{
+button#Click:hover{
 cursor:pointer;
 
+}
+button#Click{
+    background-color:transparent;
+    border-color:transparent;
+    
 }
