@@ -1,7 +1,7 @@
 const button = document.getElementById("Click")
-let i;
+
 function handleclick(){
-  const i = window.prompt("Light or dark mode")
+  let i = window.prompt("Light or dark mode")
     
 }
 
