@@ -29,7 +29,7 @@ button#Click:hover{
 cursor:pointer;
 
 }
-button#Click .White{
+button#Click{
     background-color:transparent;
     border-color:transparent;
     text-align:center;
