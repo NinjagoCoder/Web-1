@@ -1,13 +1,19 @@
 const button = document.getElementById("Click")
 let i;
 function handleclick(){
-    alert("Best random website ever")
-    console.log(i++)
-    document.body.style.backgroundColor ="Grey"
+  const i = window.prompt("Light or dark mode")
     
 }
 
 button.addEventListener('click',handleclick)
 
+if(i = "Light"){
+    document.body.style.backgroundColor = "White"
+}
+
+if(i = "Dark"){
+    document.body.style.backgroundColor = "Darkslategrey"
+
+}
 
 
