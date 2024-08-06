@@ -11,9 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const trackName = document.getElementById('track-name');
 
     const tracks = [
-        'path/to/your/song1.mp3',
-        'path/to/your/song2.mp3'
-        
+        'Audios/song1.mp3',
+        'Audios/song2.mp3'
     ];
 
     let currentTrack = 0;
