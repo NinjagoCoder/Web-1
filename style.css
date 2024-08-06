@@ -34,3 +34,6 @@ button#Click .White{
     border-color:transparent;
     text-align:center;
 }
+article,label,img{
+    text-align:center;    
+}
