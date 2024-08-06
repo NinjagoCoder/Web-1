@@ -34,6 +34,11 @@ button#Click{
     border-color:transparent;
     text-align:center;
 }
-article,label,img{
+article,label{
     text-align:center;    
+}
+#Project1,#project1{
+    height:250px;
+    width:250px;
+    position:relative
 }
