@@ -28,8 +28,8 @@ button#Click:hover{
 cursor:pointer;
 
 }
-button#Click{
+button#Click .White{
     background-color:transparent;
     border-color:transparent;
-    
+    text-align:center;
 }
