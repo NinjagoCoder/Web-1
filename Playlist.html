@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="Playlist.css">
+</head>
+<body>
+    <div class="player">
+        <div class="controls">
+            <button id="prev">Prev</button>
+            <button id="play">Play</button>
+            <button id="pause">Pause</button>
+            <button id="next">Next</button>
+            <button id="shuffle">Shuffle</button>
+            <button id="repeat">Repeat</button>
+        </div>
+        <div class="track-info">
+            <p id="track-name">No track playing</p>
+        </div>
+        <input type="range" id="seekbar" value="0" min="0" max="100">
+        <input type="range" id="volume" value="100" min="0" max="100">
+    </div>
+    <script src="Playlist.js"></script>
+</body>
+</html>
